@@ -14,7 +14,7 @@ const initialState = {
                     id:0,
                     name:'mustafa',
                     email:'abc@gmail.com',
-                    phone:'8719919988'
+                    phone:'123456789'
                 } 
             ]
         },

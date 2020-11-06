@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\navigations",
+    "\\store",
+    "\\store\\action",
+    "\\store\\reducer"
+  ],
+  "SelectedNode": "\\store\\reducer\\residentReducer.js",
+  "PreviewInSolutionExplorer": false
+}
